@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%cb6aypac-ak+s#&*e837h%hg+24day2^%d6l8gk#npx5dd)f^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['khao-sat.herokuapp.com']
+ALLOWED_HOSTS = ['khao-sat.herokuapp.com','poll-dapps.azurewebsites.net']
 
 
 # Application definition
